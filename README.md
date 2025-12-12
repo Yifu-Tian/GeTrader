@@ -8,17 +8,20 @@ GeTrader acts as a sentient trader. It combines Technical Analysis (TA), News Se
 
 ## Key Features
 
-**🧠Evolutionary Memory Core:** 
+**🧠Evolutionary Memory Core** 
 
 The AI maintains a "Lesson Book." If a trade results in a significant loss, the AI reflects on the error (e.g., "ignored RSI divergence") and stores it in memory to prevent repeating the mistake in future decisions.
 
-**📰Multi-Dimensional Data Analysis**:
+**📰Multi-Dimensional Data Analysis**
 
    - **Technical Analysis:** Locally computes EMA (Trend), RSI (Momentum), Bollinger Bands (Volatility), and ATR (Risk).
   
    - **Fundamental Analysis:** Real-time scraping of Google News RSS to analyze market news sentiment (Bullish/Bearish).
 
-**📝Paper Trading Engine:** A built-in simulation engine that tracks:
+**📝Paper Trading Engine** 
+
+A built-in simulation engine that tracks:
+
    * Real-time Floating PnL (Profit and Loss)
    * Win/Loss Ratio
    * Strategy Confidence Score
