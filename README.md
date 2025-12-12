@@ -1,4 +1,4 @@
-# 🧬 GeTrader (Gemini-Powered Trader for Cryptocurrency)
+# 🧬 GeTrader: Gemini-Powered Trader for Cryptocurrency
 
 **GeTrader** is an advanced, self-evolving cryptocurrency quantitative trading terminal powered by Google's Gemini AI.
 
